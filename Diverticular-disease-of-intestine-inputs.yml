@@ -1,0 +1,54 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/diverticular-disease-of-intestine-acute-and-chronic-colon---primary.py
+inputModule3:
+  class: File
+  path: python/diverticular-disease-of-intestine-acute-and-chronic-diverticulum---primary.py
+inputModule4:
+  class: File
+  path: python/diverticular-disease-of-intestine-acute-and-chronic-diverticulosis---primary.py
+inputModule5:
+  class: File
+  path: python/diverticular-disease-of-intestine-acute-and-chronic-duodenum---primary.py
+inputModule6:
+  class: File
+  path: python/diverticular-disease-of-intestine-acute-and-chronic-jejunum---primary.py
+inputModule7:
+  class: File
+  path: python/diverticular-disease-of-intestine-acute-and-chronic-ileum---primary.py
+inputModule8:
+  class: File
+  path: python/small-diverticular-disease-of-intestine-acute-and-chronic---primary.py
+inputModule9:
+  class: File
+  path: python/large-diverticular-disease-of-intestine-acute-and-chronic---primary.py
+inputModule10:
+  class: File
+  path: python/diverticular-disease-of-intestine-acute-and-chronic-abscess---primary.py
+inputModule11:
+  class: File
+  path: python/diverticular-disease-of-intestine-acute-and-chronic-unspecified---primary.py
+inputModule12:
+  class: File
+  path: python/diverticular-disease-of-intestine-acute-and-chronic-diverticulitis---primary.py
+inputModule13:
+  class: File
+  path: python/diverticular-disease-of-intestine-acute-and-chronic---primary.py
+inputModule14:
+  class: File
+  path: python/diverticular-disease-of-intestine-acute-and-chronic-perforated---primary.py
+inputModule15:
+  class: File
+  path: python/diverticular-disease-of-intestine-acute-and-chronic---secondary.py
+inputModule16:
+  class: File
+  path: python/excision-diverticulum-colon-diverticular-disease-of-intestine-acute-and-chronic---secondary.py
+inputModule17:
+  class: File
+  path: python/output-cases.py
